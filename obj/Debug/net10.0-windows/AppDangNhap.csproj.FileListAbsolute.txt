@@ -1,0 +1,16 @@
+D:\Code\AppDangNhap\AppDangNhap\bin\Debug\net10.0-windows\AppDangNhap.exe
+D:\Code\AppDangNhap\AppDangNhap\bin\Debug\net10.0-windows\AppDangNhap.deps.json
+D:\Code\AppDangNhap\AppDangNhap\bin\Debug\net10.0-windows\AppDangNhap.runtimeconfig.json
+D:\Code\AppDangNhap\AppDangNhap\bin\Debug\net10.0-windows\AppDangNhap.dll
+D:\Code\AppDangNhap\AppDangNhap\bin\Debug\net10.0-windows\AppDangNhap.pdb
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.Form1.resources
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.csproj.GenerateResource.cache
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.AssemblyInfoInputs.cache
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.AssemblyInfo.cs
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.csproj.CoreCompileInputs.cache
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.dll
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\refint\AppDangNhap.dll
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.pdb
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\AppDangNhap.genruntimeconfig.cache
+D:\Code\AppDangNhap\AppDangNhap\obj\Debug\net10.0-windows\ref\AppDangNhap.dll
